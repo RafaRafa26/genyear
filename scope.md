@@ -32,7 +32,7 @@ The goal is to **evoke emotions and nostalgia**, delivering information in a sim
 
 ---
 
-## 🎨 **Phase 1: UI Foundation & Dark Theme Setup** - [ ]
+## 🎨 **Phase 1: UI Foundation & Dark Theme Setup** - [x]
 
 ### 1.1 Install Required Dependencies - [x]
 
